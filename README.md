@@ -15,7 +15,7 @@
       <p></p>
        <hr>
     <h3>Certifications</h3>
-   <strong><li><a href="[https://courses.cognitiveclass.ai/certificates/442462edfd1d4042b5e3de4a5e3b4826](https://courses.cognitiveclass.ai/certificates/442462edfd1d4042b5e3de4a5e5b4826)">SQL and Relational Databases 101</li> </a></strong>
+   <strong><li><a href="https://courses.cognitiveclass.ai/certificates/442462edfd1d4042b5e3de4a5e5b4826">SQL and Relational Databases 101</li> </a></strong>
 <!--
 **Xander100-ui/Xander100-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
